@@ -1,0 +1,6 @@
+services:
+    feed-endpoint: https://api.nasa.gov/neo/rest/v1/feed
+    api-key: DEMO_KEY
+api:
+    endpoint: 127.0.0.1:8089
+slackHookURL: TBA
